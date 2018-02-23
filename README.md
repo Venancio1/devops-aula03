@@ -1,6 +1,7 @@
 # Ferramentas de controle de versão
 
-* MercurialL
+
+* Mercuriahg
 
 * Git
 
